@@ -12,7 +12,7 @@ spec:
   jobManager:
     resource:
       memory: "2048m"
-      cpu: 1
+      cpu: 2
   taskManager:
     resource:
       memory: "2048m"
